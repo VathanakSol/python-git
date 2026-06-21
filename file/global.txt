@@ -1,0 +1,2 @@
+This is global setting
+This is another lineupdated patch data!!!
