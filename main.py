@@ -14,6 +14,7 @@ content = open("example.txt","r")
 print(content.read())
 # close
 content.close()
+print("Opening File ...")
 
 # opening file has with statement (auto close file)
 with open("example.txt", "r") as file:
