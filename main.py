@@ -18,3 +18,4 @@ content.close()
 # opening file has with statement (auto close file)
 with open("example.txt", "r") as file:
     print(file.read())
+print("Reading File Successfully!!!")
